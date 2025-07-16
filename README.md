@@ -26,6 +26,4 @@ This project demonstrates Support Vector Regression using Python and scikit-lear
 - It visualizes SVR predictions against actual salaries.
 - Predicts the salary for position level 6.5.
 
-## License
 
-This project is
